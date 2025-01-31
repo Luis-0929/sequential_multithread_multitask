@@ -31,7 +31,7 @@ int main() {
 
 
     start = clock();
-    for(int i = 0; i < n_3; i++) {
+    for(long long int i = 0; i < n_3; i++) {
         if(i == (n_3 / 4)){
             printf("A quarter of the way there...");
         }
