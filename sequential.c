@@ -9,7 +9,7 @@ int main() {
     
     long long int sum_1 = 0;
     long long int sum_2 = 0; 
-    long long int sum_3 = 0;
+    unsigned long long int sum_3 = 0;
 
 
 
