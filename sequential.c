@@ -3,8 +3,13 @@
 
 int main() {
     clock_t start, end;
-    long long int n_1 = 100000000, n_2 = 1000000000, n_3 = 10000000000;
-    long long int sum_1 = 0, sum_2 = 0, sum_3 = 0;
+    long long int n_1 = 100000000;
+    long long int n_2 = 1000000000; 
+    long long int n_3 = 10000000000;
+    
+    long long int sum_1 = 0;
+    long long int sum_2 = 0; 
+    long long int sum_3 = 0;
 
 
 
