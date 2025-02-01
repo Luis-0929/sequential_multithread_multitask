@@ -4,7 +4,7 @@ n1=100000000
 n2=1000000000
 n3=10000000000
 
-gcc sequential_optimized.c -o sequential
+gcc sequential.c -o sequential
 
 echo "Running Workload of $n1"
 ./sequential $n1
